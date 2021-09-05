@@ -2,6 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
+  "homepage": "https://dhanushsiva.github.io/my-portfolio",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
