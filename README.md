@@ -1,1 +1,1 @@
-Simplefolio
+permalink: /index.html
